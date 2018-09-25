@@ -334,4 +334,8 @@ class Artist
 
 Phew! That was some complex stuff. It's okay if you didn't understand everything covered in this lab. There were a few advanced and bonus sections that we threw in there to challenge you and make you think. Don't skip over them, even if you can't follow everything they discuss. It's important to plant the seed of some of these more complex topics––it will make them easier to understand later on when you're ready to go deeper into Ruby programming.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-artist-song-modules/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-artist-song-modules/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Refactoring with Modules</p>
