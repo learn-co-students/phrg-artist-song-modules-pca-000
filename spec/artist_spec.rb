@@ -2,6 +2,7 @@ require_relative './spec_helper'
 
 describe Artist do
   before(:each) do
+    #binding.pry
     Artist.reset_all
   end
 
